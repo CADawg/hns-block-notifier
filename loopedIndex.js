@@ -1,2 +1,2 @@
 const run = require("./index");
-setInterval(() => run, 10000);
+setInterval(run, 10000);
